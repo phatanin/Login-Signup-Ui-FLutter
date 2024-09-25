@@ -3,7 +3,7 @@ import 'package:login_signup_ui_starter/theme.dart';
 
 class PrimaryButton extends StatelessWidget {
   final String buttonText;
-  PrimaryButton({@required this.buttonText});
+  PrimaryButton({required this.buttonText});
   @override
   Widget build(BuildContext context) {
     return Container(

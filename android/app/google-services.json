@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984576650238",
+    "project_id": "flutter-project-facaf",
+    "storage_bucket": "flutter-project-facaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984576650238:android:b12bdd9325561a97966eaf",
+        "android_client_info": {
+          "package_name": "com.example.login_signup_ui_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDujGhkUw1UL-kD2Bp22GUMwxdi6kPKx_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
